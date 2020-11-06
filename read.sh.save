@@ -1,0 +1,5 @@
+for commit in $(git log | grep commit  | grep -v Initial | cut -d ' ' -f2); do 
+   var1=$(git diff --raw $commit | cut -d ' ' -f5)
+   var2=$(git log | grep $commit -A 1 | grep -v commit)
+   echo $var2 \n $var1
+done

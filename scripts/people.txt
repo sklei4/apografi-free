@@ -1,0 +1,125 @@
+mysql> select * from people;
++-----+------------------------+-------------------+--------------------------------------+-------------------+
+| ID  | Name                   | Location          | Email                                | Phone             |
++-----+------------------------+-------------------+--------------------------------------+-------------------+
+|   0 | Information Technology | AutonomouStuff IL | admin@autonomoustuff.com             | 309-291-0966 x207 |
+|   1 | Joseph Driscoll        | AutonomouStuff IL | jdriscoll@autonomoustuff.com         | NULL              |
+|   2 | Michael Molleck        | AutonomouStuff IL | mmolleck@autonomoustuff.com          | NULL              |
+|   3 | Terry Lamprecht        | AutonomouStuff IL | talmprecht@autonomoustuff.com        | 309-291-0966 x203 |
+|   4 | Sam Rustan             | AutonomouStuff IL | srustan@autonomoustuff.com           | NULL              |
+|   5 | Joyce Murphy           | AutonomouStuff IL | jmurphy@autonomoustuff.com           | 309-291-0966 x130 |
+|   6 | Uriel Burdess          | AutonomouStuff IL | uburdess@autonomoustuff.com          | 309.291.0966      |
+|   7 | Joshua Urlaub          | AutonomouStuff IL | jurlaub@autonomoustuff.com           | 309.291.0966      |
+|   8 | Amruta Mhaske          | AutonomouStuff IL | amhaske@autonomoustuff.com           | 309.291.0966      |
+|   9 | Daniel Naymark         | AutonomouStuff IL | dnaymark@autonomoustuff.com          | 309.291.0966      |
+|  10 | Ashley Berquist        | AutonomouStuff IL | aberquist@autonomoustuff.com         | 309-291-0966 x107 |
+|  11 | Caleb Chain            | AutonomouStuff IL | cchain@autonomoustuff.com            |                   |
+|  12 | Kate Baker             | AutonomouStuff IL | kbaker@autonomoustuff.com            |                   |
+|  13 | Lee Baldwin            | AutonomouStuff IL | lbaldwin@autonomoustuff.com          |                   |
+|  14 | Kevin Bennett          | AutonomouStuff IL | kbennett@autonomoustuff.com          |                   |
+|  15 | Chris Brady            | AutonomouStuff IL |                                      |                   |
+|  16 | Beau Brummitt          | AutonomouStuff IL |                                      |                   |
+|  17 | Joe Buckner            | AutonomouStuff IL | jbuckner@autonomoustuff.com          |                   |
+|  18 | Travis Catton          | AutonomouStuff IL | tcatton@autonomoustuff.com           |                   |
+|  19 | Alain Cool             | AutonomouStuff IL | acool@autonomoustuff.com             |                   |
+|  20 | Beau Brummitt          | AutonomouStuff IL | bbrummitt@autonomoustuff.com         |                   |
+|  21 | Tony Wong              | AutonomouStuff IL | twong@autonomoustuff.com             |                   |
+|  22 | Jessica Crofts         | AutonomouStuff IL | jkrofts@autonomoustuff.com           |                   |
+|  23 | Sanaz Fattahalhosseini | AutonomouStuff IL | sfattahalhosseini@autonomoustuff.com |                   |
+|  24 | Kevin Fay              | AutonomouStuff IL | kfay@autonomoustuff.com              |                   |
+|  25 | Scott Fredirickson     | AutonomouStuff IL | sfredirickson@autonomoustuff.com     |                   |
+|  26 | Kendra Gallup          | AutonomouStuff IL | kgallup@autonomoustuff.com           |                   |
+|  27 | Sneha Ganesh           | AutonomouStuff IL | sganesh@autonomoustuff.com           |                   |
+|  28 | Matt Goben             | AutonomouStuff IL | mgoben@autonomoustuff.com            |                   |
+|  29 | Erik Guetz             | AutonomouStuff IL | eguetz@autonomoustuff.com            |                   |
+|  30 | Rinda Gunjala          | AutonomouStuff IL | rgunjala@autonomoustuff.com          |                   |
+|  31 | Chris Hagen            | AutonomouStuff IL |                                      |                   |
+|  32 | Robert Hambrick        | AutonomouStuff IL | rhambrick@autonomoustuff.com         |                   |
+|  33 | Jill Hambrick          | AutonomouStuff IL |                                      |                   |
+|  34 | Rachel Hensold         | AutonomouStuff IL | rhensold@autonomoustuff.com          |                   |
+|  35 | Laci Hodonicky         | AutonomouStuff IL |                                      |                   |
+|  36 | Caleb Imig             | AutonomouStuff IL | cimig@autonomoustuff.com             |                   |
+|  37 | Nathan Imig            | AutonomouStuff IL | nimig@autonomoustuff.com             |                   |
+|  38 | Curtis Jackson         | AutonomouStuff IL |                                      |                   |
+|  39 | Kim Jacob              | AutonomouStuff IL | kjacob@autonomoustuff.com            |                   |
+|  40 | Ben Jansky             | AutonomouStuff IL | bjansky@autonomoustuff.com           |                   |
+|  41 | Greg Johnson           | AutonomouStuff IL | gjohnson@autonomoustuff.com          |                   |
+|  42 | Joe Kale               | AutonomouStuff IL |                                      |                   |
+|  43 | Riki Kettwich          | AutonomouStuff IL | rkettwich@autonomoustuff.com         |                   |
+|  44 | Adam Kidd              | AutonomouStuff IL | akidd@autonomoustuff.com             |                   |
+|  45 | Jonathan Klein         | AutonomouStuff IL | jklein@autonomoustuff.com            |                   |
+|  46 | Sam Klein              | AutonomouStuff IL | sklein@autonomoustuff.com            |                   |
+|  47 | Erik Knott             | AutonomouStuff IL |                                      |                   |
+|  48 | Aaron Leesman          | AutonomouStuff IL | aleesman@autonomoustuff.com          |                   |
+|  49 | Mike Lemm              | AutonomouStuff IL | mlemm@autonomoustuff.com             |                   |
+|  50 | Natalie Mehn           | AutonomouStuff IL | nmehn@autonomoustuff.com             |                   |
+|  51 | Cory Mason             | AutonomouStuff IL | cmason@autonomoustuff.com            |                   |
+|  52 | Avery McDonald         | AutonomouStuff IL |                                      |                   |
+|  53 | Chelsea Mullins        | AutonomouStuff IL | cmullins@autonomoustuff.com          |                   |
+|  54 | Dan Mullins            | AutonomouStuff IL | dmullins@autonomoustuff.com          |                   |
+|  55 | Tasha Murphy           | AutonomouStuff IL | tmurphy@autonomoustuff.com           |                   |
+|  56 | Zachary Oakes          | AutonomouStuff IL | zoakes@autonomoustuff.com            |                   |
+|  57 | Tyler Paitner          | AutonomouStuff IL | tpaitner@autonomoustuff.com          |                   |
+|  58 | Aleigh Payne           | AutonomouStuff IL | apayne@autonomoustuff.com            |                   |
+|  59 | Aurelia Perrin         | AutonomouStuff IL | aperrin@autonomoustuff.com           |                   |
+|  60 | Marissa Perry          | AutonomouStuff IL |                                      |                   |
+|  61 | Nicholas Pierce        | AutonomouStuff IL |                                      |                   |
+|  62 | Teresa Poshard         | AutonomouStuff IL |                                      |                   |
+|  63 | Justin Puent           | AutonomouStuff IL |                                      |                   |
+|  64 | Heather Reichert       | AutonomouStuff IL |                                      |                   |
+|  65 | Loni Reid              | AutonomouStuff IL |                                      |                   |
+|  66 | Dan Robb               | AutonomouStuff IL |                                      |                   |
+|  67 | Ben Ross               | AutonomouStuff IL |                                      |                   |
+|  68 | Andy Saxsma            | AutonomouStuff IL |                                      |                   |
+|  69 | Tim Schlesinger        | AutonomouStuff IL |                                      |                   |
+|  70 | Dan Stanek             | AutonomouStuff IL |                                      |                   |
+|  71 | Tim Swanson            | AutonomouStuff IL |                                      |                   |
+|  72 | Holly Tatum            | AutonomouStuff IL |                                      |                   |
+|  73 | Zach Taylor            | AutonomouStuff IL |                                      |                   |
+|  74 | Nate Todd              | AutonomouStuff IL |                                      |                   |
+|  75 | Chris Vigna            | AutonomouStuff IL |                                      |                   |
+|  76 | Nichole Waier          | AutonomouStuff IL |                                      |                   |
+|  77 | Chris Warren           | AutonomouStuff IL |                                      |                   |
+|  78 | Joshua Whitley         | AutonomouStuff IL |                                      |                   |
+|  79 | Tony Wong              | AutonomouStuff IL |                                      |                   |
+|  80 | Jonathan Zhou          | AutonomouStuff IL |                                      |                   |
+|  81 | Jeannette Beronia      | AutonomouStuff IL |                                      |                   |
+|  82 | Kendra Gallup          | AutonomouStuff IL |                                      |                   |
+|  83 | Cameron Gieda          | AutonomouStuff IL |                                      |                   |
+|  84 | Richardo Iraheta       | AutonomouStuff IL |                                      |                   |
+|  85 | Wolfgang Juchmann      | AutonomouStuff IL |                                      |                   |
+|  86 | JL Mitra               | AutonomouStuff IL |                                      |                   |
+|  87 | Teng Hong Swee         | AutonomouStuff IL |                                      |                   |
+|  88 | Marco Reiling          | AutonomouStuff IL |                                      |                   |
+|  89 | Matt Buedel            | AutonomouStuff IL | Files                                | Activity          |
+|  90 | Marketing              | AutonomouStuff IL | marketing@autonomoustuff.com         |                   |
+|  91 | Steven Han             | AutonomouStuff IL | shan@autonomoustuff.com              |                   |
+|  92 | Alexandru Birladeanu   | AutonomouStuff IL | alexandru.birladeanu@novatel.com     | 1.403.295.4949    |
+|  93 | Ian Colwell            | AutonomouStuff IL | icolwell@autonomoustuff.com          |                   |
+|  94 | Veripos                | AutonomouStuff IL |                                      |                   |
+|  95 | Kevin van Erde         | AutonomouStuff IL | kevin.vaneerde@novatel.com           |                   |
+|  96 | Robert Ashe            | AutonomouStuff IL | robert.ashe@hexagon.com              | 1.403.295.4456    |
+|  97 | Paul Macleod           | AutonomouStuff IL | paul.macleod@veripos.com             |                   |
+|  98 | Cullen Stone           | AutonomouStuff IL | cstone@autonomostuff.com             |                   |
+|  99 | David Stern            | AutonomouStuff IL | dstern@autonomoustuff.com            |                   |
+| 100 | Allan MacAulay         | AutonomouStuff IL |                                      |                   |
+| 101 | Amanda Li              | AutonomouStuff IL |                                      |                   |
+| 102 | Brad Miller            | AutonomouStuff IL | bmiller@autonomoustuff.com           |                   |
+| 103 | Cecille Martin         | AutonomouStuff IL |                                      |                   |
+| 104 | Charon Shao            | AutonomouStuff IL |                                      |                   |
+| 105 | Jack Linchey           | AutonomouStuff IL |                                      |                   |
+| 106 | Jeffrey Liu            | AutonomouStuff IL |                                      |                   |
+| 107 | John Buszek            | AutonomouStuff IL |                                      |                   |
+| 108 | Kermit Yu              | AutonomouStuff IL |                                      |                   |
+| 109 | Kyle Rector            | AutonomouStuff IL |                                      |                   |
+| 110 | Lucas Buckland         | AutonomouStuff IL |                                      |                   |
+| 111 | Russel Ledford         | AutonomouStuff IL |                                      |                   |
+| 112 | Scott Bailey           | AutonomouStuff IL |                                      |                   |
+| 113 | Skyler Couch           | AutonomouStuff IL |                                      |                   |
+| 114 | Spencer Snider         | AutonomouStuff IL |                                      |                   |
+| 115 | Tom Rapp               | AutonomouStuff IL |                                      |                   |
+| 116 | Walter Lewis           | AutonomouStuff IL |                                      |                   |
++-----+------------------------+-------------------+--------------------------------------+-------------------+
+117 rows in set (0.00 sec)
+
+

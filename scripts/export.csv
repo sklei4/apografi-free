@@ -1,0 +1,276 @@
+Person ID,User,Brand,Type,Serial Number,Cost,Equipment ID
+0,Information Technology,Dell XPS,Computer,91LYYF2,1500,0
+1,Joseph Driscoll,Dell XPS,Computer,45T93M2,1500,1
+0,Information Technology,System76,Computer,8G12SC077330,1500,2
+2,Michael Molleck,Dell XPS,Computer,7T8WLQ2,1500,3
+4,Sam Rustan,Surface,Computer,022530274357,1100,4
+0,Information Technology,Lenovo,Computer,PF0WZ5PR,1600,5
+0,Information Technology,Mini DisplayPort to VGA,Cable,,12,6
+0,Information Technology,Dell XPS,Computer,8M3CNH2,1500,7
+0,Information Technology,USB to RS 485/422,Cable,,0,8
+0,Information Technology,Mini DisplayPort to HDMI,Cable,,9,9
+0,Information Technology,HDMI to HDMI,Cable,,7,10
+0,Information Technology,HDMI to HDMI,Cable,,7,11
+0,Information Technology,HDMI to HDMI,Cable,,7,12
+0,Information Technology,HDMI to DisplayPort,Cable,,9,13
+5,Joyce Murphy,Macbook,Computer,C02S42LQ68WM,2300,14
+6,Uriel Burdess,Dell XPS,Computer,PF1AKTSO,800,15
+78,Joshua Whitley,Dell XPS,Computer,JPZ7JRZ,1600,16
+7,Joshua Urlaub,Dell Dock,Docking Station,05FDDV-CML-86R-2324-A06,150,17
+8,Amruta Mhaske,Dell Dock,Docking Station,05FDDV-12966-7AI-013D-A04,150,18
+9,Daniel Naymark,Lenovo,Computer,4GCN31WW,1600,19
+10,Ashley Berquist,Macbook,Computer,C02XHD94JG5H,2217,20
+11,Caleb Chain,Dell XPS,Computer,7SQHBR2,1500,21
+0,Information Technology,HP,Computer,CND717680L,600,22
+0,Information Technology,HP,Computer,CND64426R7,500,23
+0,Information Technology,System76,Computer,8H07SC092808,1500,24
+12,Kate Baker,Macbook,Computer,SC02SN7T1G8WN,1900,25
+13,Lee Baldwin,Macbook,Computer,C02WM4W6G8WN,2050,26
+14,Kevin Bennett,HP,Computer,CND74105QT,520,27
+15,Chris Brady,Lenovo,Computer,R90RG49N,1900,28
+87,Teng Hong Swee,Lenovo,Computer,PF0M1P10,919,29
+17,Joe Buckner,Macbook,Computer,C02SLL03G8WN,2300,30
+17,Joe Buckner,ASUS,Monitor,G4LMTF045787,130,31
+17,Joe Buckner,ASUS,Monitor,G4LMTF045791,130,32
+18,Travis Catton,Dell XPS,Computer,1TB9LQ2,1800,33
+19,Alain Cool,Macbook,Computer,C02QH58KFVH5,1500,34
+20,Beau Brummitt,Dell XPS,Computer,90ZH7S2,2263,35
+19,Alain Cool,Sceptre Monitor,Monitor,H31T1205BSA1220,70,36
+21,Tony Wong,Sceptre Monitor,Monitor,H31H205BSA1204,70,37
+22,Jessica Crofts, Macbook,Computer,C02V26WVG8WN,2500,38
+22,Jessica Crofts,ASUS,Monitor,JALMTF003628,130,39
+22,Jessica Crofts,ASUS,Monitor,JALMT003649,130,40
+10,Ashley Berquist,ASUS,Monitor,JBLMTF053259,130,41
+10,Ashley Berquist,ASUS,Monitor,JBLMTF054425,130,42
+0,Information Technology,ASUS,Monitor,G3LMTF120166,130,43
+0,Information Technology,ASUS,Monitor,G3LMTF120160,130,44
+1,Joseph Driscoll,System76,Computer,8G08SC069507,1600,45
+1,Joseph Driscoll,ASUS,Monitor,G9LMTF164216,130,46
+1,Joseph Driscoll,ASUS,Monitor,G6LMTF074698,130,47
+23,Sanaz Fattahalhosseini,Dell XPS,Computer,GK0FNQ2,2500,48
+24,Kevin Fay,Dell XPS,Computer,7HGNRF2,2400,49
+25,Scott Fredirickson,Scott Fredirickson,Computer,T560,839,50
+25,Scott Fredirickson,ASUS,Monitor,G6LMTF075149,130,51
+0,Information Technology,---,---,,0,52
+27,Sneha Ganesh,Lenovo,Computer,R90QFN68,2260,53
+0,Information Technology,---,---,---,0,54
+0,Information Technology,---,---,---,0,55
+28,Matt Goben,Dell XPS,Computer,7M3VQQ2,1700,56
+29,Erik Guetz,System76,Computer,,2100,57
+30,Rinda Gunjala,Dell XPS,Computer,9ILYYF2,2100,58
+30,Rinda Gunjala,Lenovo,Computer,PF17SCHX,1300,59
+30,Rinda Gunjala,ASUS,Monitor,MMLVNAA00264401C1E2473,130,60
+30,Rinda Gunjala,ASUS,Monitor,MMLVNAA00264401C122473,130,61
+75,Chris Vigna,Dell XPS,Computer,1N6MRF2,1926,62
+31,Chris Hagen,ASUS,Monitor,H1LMTF026901,130,63
+31,Chris Hagen,ASUS,Monitor,H1LMTF026795,130,64
+32,Robert Hambrick,Macbook,Computer,CO2PXEJ9G8WP,2300,65
+33,Jill Hambrick,Macbook,Computer,C02NC3S9G3QJ,1400,66
+53,Chelsea Mullins,Macbook,Computer,C02V17WJG8WN,2300,67
+0,Information Technology,Macbook,Computer,SC02TW43VG8WN,2000,68
+0,Information Technology,ASUS,Monitor,H8LMTF044334,130,69
+0,Information Technology,ASUS,Monitor,H8LMTF044312,130,70
+0,Information Technology,---,---,---,1900,71
+36,Caleb Imig,Lenovo,Computer,R90RSHZ5,1900,72
+37,Nathan Imig,System76,Computer,8G04SC063140,1900,73
+37,Nathan Imig,Dell XPS,Computer,33916887290,2600,74
+37,Nathan Imig,ASUS,Monitor,H2LMTF022060,130,75
+37,Nathan Imig,ASUS,Monitor,H2LMTF021914,130,76
+38,Curtis Jackson,Macbook,Computer,C02S42LQG8WM,2300,77
+38,Curtis Jackson,ASUS,Monitor,G4LMTF146590,130,78
+38,Curtis Jackson,ASUS,Monitor,G4LMTF146593,130,79
+39,Kim Jacob,Macbook,Computer,C02LC3XZFFT0,2300,80
+39,Kim Jacob,ASUS,Monitor,G3LMTF120160,130,81
+39,Kim Jacob,ASUS,Monitor,G3LMTF120166,130,82
+39,Kim Jacob,ASUS,Monitor,H2LMTF022393,130,83
+40,Ben Jansky,Dell XPS,Computer,683FHC2,1615,84
+40,Ben Jansky,ASUS,Monitor,,130,85
+40,Ben Jansky,ASUS,Monitor,,130,86
+41,Greg Johnson,Macbook,Computer,C02WM4XRG8WN,2300,87
+42,Joe Kale,System76,Computer,8G12SC077330,1600,88
+0,Information Technology,ASUS,Monitor,G9LMTF001108,130,89
+42,Joe Kale,ASUS,Monitor,G9LMTF001103,130,90
+43,Riki Kettwich,Macbook,Computer,C02N9QGYG3QH,2300,91
+43,Riki Kettwich,Mono Wireless,Headset,GT81215SD270117,140,92
+43,Riki Kettwich,ASUS,Monitor,G9LMTF001108,130,93
+43,Riki Kettwich,ASUS,Monitor,G9MTF001103,130,94
+43,Riki Kettwich,SCEPTRE Monitor,Monitor,J10J205BCA4881,130,95
+43,Riki Kettwich,SCEPTRE Monitor,Monitor,J10J205BCA4876,130,96
+44,Adam Kidd,Lenovo,Computer,PF-18T96E,1702,97
+45,Jonathan Klein,Macbook,Computer,CO2TD0WXH040,2300,98
+45,Jonathan Klein,ASUS,Monitor,GCLMTF0S454,130,99
+45,Jonathan Klein,ASUS,Monitor,GBLMTF091923,130,100
+46,Sam Klein,Macbook,Computer,C02XG6GPJGH6,2300,101
+47,Erik Knott,Macbook,Computer,C02SN7XJG8WN,2300,102
+47,Erik Knott,ASUS,Monitor,H6LMTF096676,130,103
+47,Erik Knott,ASUS,Monitor,H6LMTF063721,130,104
+3,Terry Lamprecht,Lenovo,Computer,8179158926,1926,105
+3,Terry Lamprecht,ASUS,Monitor,E8LMTF070952,130,106
+3,Terry Lamprecht,ASUS,Monitor,E8LMTF070949,130,107
+48,Aaron Leesman,Macbook,Computer,SC02V2752G8WN,2500,108
+49,Mike Lemm,System76,Computer,8H11SC100580,2300,109
+49,Mike Lemm,Dell XPS,Computer,GN4VSQ2,2400,110
+49,Mike Lemm,ASUS,Monitor,H7LMTF160303,130,111
+49,Mike Lemm,ASUS,Monitor,H7LMTF160293,130,112
+50,Natalie Mehn,Macbook,Computer,C02TH3Q6G8WN,1900,113
+50,Natalie Mehn,ASUS,Monitor,H1LMTF026901,130,114
+50,Natalie Mehn,ASUS,Monitor,F9LMTF027798,130,115
+51,Cory Mason,HP,Computer,CND6252969,488,116
+52,Avery McDonald,Macbook,Computer,C02SM8T4G8WN,2300,117
+52,Avery McDonald,ASUS,Monitor,E8LMTF070847,130,118
+52,Avery McDonald,ASUS,Monitor,F8LMTF094270,130,119
+52,Avery McDonald,ASUS,Monitor,F1LMTF020913,130,120
+52,Avery McDonald,ASUS,Monitor,MMTOCAA2542130448510,130,121
+8,Amruta Mhaske,Lenovo,Computer,R90QH2LM,2274,122
+2,Michael Molleck,Dell XPS,Computer,7T8WLQ2,1700,123
+53,Chelsea Mullins,Macbook,Computer,C02N9D6JG3QC,1900,124
+53,Chelsea Mullins,ASUS,Monitor,F8LMTF094268,130,125
+53,Chelsea Mullins,ASUS,Monitor,F8LMTF094277,130,126
+53,Chelsea Mullins,ASUS,Monitor,DSE15011099,130,127
+111,Russel Ledford,HP,Computer,CND6140RH1,600,128
+55,Tasha Murphy,Macbook,Computer,SC02QF3CNG8WN,2018,129
+55,Tasha Murphy,HP,Monitor,3CQ048NDQF,130,130
+55,Tasha Murphy,HP,Monitor,3CQ049PS2T,130,131
+56,Zachary Oakes,System76,Computer,8i055c112532,1515,132
+57,Tyler Paitner,Dell XPS,Computer,XPS95501333SLV,1800,133
+57,Tyler Paitner,ASUS,Monitor,EXLTF070951,130,134
+57,Tyler Paitner,ASUS,Monitor,EXLTF070736,130,135
+58,Aleigh Payne,Macbook,Computer,C02L14E1FFT0,2300,136
+59,Aurelia Perrin,Lenovo,Computer,PC-0ND4XD,900,137
+60,Marissa Perry,Lenovo,Computer,PC0ND4XD,840,138
+61,Nicholas Pierce,Macbook,Computer,SC02V34CYG8WN,2300,139
+62,Teresa Poshard,Lenovo,Computer,PCOL5PW317105,1720,140
+62,Teresa Poshard,ASUS,Monitor,G2LMTF075590,130,141
+62,Teresa Poshard,ASUS,Monitor,G2LMTF076158,130,142
+63,Justin Puent,Dell,Computer,9FH2HM2,1812,143
+64,Heather Reichert,Macbook,Computer,C02WV4M1G8WN,2300,144
+65,Loni Reid,Macbook,Computer,C02V1893G8WN,2300,145
+65,Loni Reid,ASUS,Monitor,G2LMTF075931,130,146
+65,Loni Reid,ASUS,Monitor,F1LMTF048001,130,147
+65,Loni Reid,ASUS,Monitor,F1LMTF047981,130,148
+65,Loni Reid,ACER,Monitor,ETLFS0W010919045E84300,130,149
+66,Dan Robb,HP,Computer,CND625293B,488,150
+67,Ben Ross,Dell,Computer,,1700,151
+67,Ben Ross,ASUS,Monitor,H6LMTF063734,130,152
+67,Ben Ross,ASUS,Monitor,H6LMTF063732,130,153
+4,Sam Rustan,ASUS,Monitor,G5LMTF089358,130,154
+4,Sam Rustan,ASUS,Monitor,G5LMTF089360,130,155
+4,Sam Rustan,System76,Computer,8HO6SC090314,2355,156
+68,Andy Saxsma,Dell,Computer,J5KMRF2,2200,157
+68,Andy Saxsma,Dell,Docking Station,72A06W31292,130,158
+68,Andy Saxsma,ASUS,Monitor,,130,159
+68,Andy Saxsma,ASUS,Monitor,,130,160
+69,Tim Schlesinger,Dell,Computer,LRT5RQD,1700,161
+69,Tim Schlesinger,Dell,Docking Station,CN05FDDV129667AI013DA04,150,162
+69,Tim Schlesinger,ASUS,Monitor,,130,163
+69,Tim Schlesinger,ASUS,Monitor,,130,164
+70,Dan Stanek,System76,Computer,8G03SC061521,1600,165
+70,Dan Stanek,ASUS,Monitor,G1LMTF194606,130,166
+70,Dan Stanek,ASUS,Monitor,FBLMTF041487,130,167
+71,Tim Swanson,Lenovo,Computer,3817092100268,1500,168
+71,Tim Swanson,ASUS,Monitor,F9LMTF027794,130,169
+71,Tim Swanson,ASUS,Monitor,F9LMTF027795,130,170
+72,Holly Tatum,Macbook,Computer,C02RV1PRG8WM,2300,171
+72,Holly Tatum,HKC,Monitor,HWCB4101331100444,130,172
+72,Holly Tatum,ASUS,Monitor,E8LMTFO70950,130,173
+72,Holly Tatum,ASUS,Monitor,F4LMTF149039,130,174
+72,Holly Tatum,ASUS,Monitor,F4LMTF148938,130,175
+73,Zach Taylor,Lenovo,Computer,QTF2XA50400458,1500,176
+73,Zach Taylor,ASUS,Monitor,F9LMTF027798,130,177
+73,Zach Taylor,ASUS,Monitor,F8LMTF094266,130,178
+74,Nate Todd,HP,Computer,CND6238KP6,567,179
+75,Chris Vigna,System76,Computer,8H07SCD92778,1600,180
+75,Chris Vigna,ASUS,Monitor,H3LMTF152368,130,181
+75,Chris Vigna,ASUS,Monitor,H3LMTF152365,130,182
+76,Nichole Waier,Macbook,Computer,C02S3D2BG8WN,2300,183
+77,Chris Warren,Dell,Computer,6YQ2HC2,1500,184
+77,Chris Warren,Dell,Docking Station,,150,185
+77,Chris Warren,ASUS,Monitor,,130,186
+77,Chris Warren,ASUS,Monitor,,130,187
+78,Joshua Whitley,ASUS,Monitor,F1LMTF098727,130,188
+78,Joshua Whitley,ASUS,Monitor,F1LMTF098726,130,189
+78,Joshua Whitley,ASUS,Monitor,H2LMTF104765,130,190
+78,Joshua Whitley,Samsung,Phone,A0OOOO48EFCAFC,180,191
+78,Joshua Whitley,System76,Computer,,1800,192
+79,Tony Wong,Lenovo,Computer,PF0E9YB6,850,193
+79,Tony Wong,ASUS,Monitor,G2LMTF000500,130,194
+79,Tony Wong,ASUS,Monitor,G2LMTF000501,130,195
+0,Information Technology,Panini,Printer,111019566,500,196
+0,Information Technology,Dell,Printer,CN-01JH8P-72211-39B-0186,430,197
+0,Information Technology,Dell,Printer,CN-01JH8P-72211-39B-0184,430,198
+0,Information Technology,FortiNet,Switch,FWF60D4615017026,1140,199
+57,Tyler Paitner,Dell,Computer,150MRF2,1600,200
+0,Information Technology,Sony,Camera,1001297,975,201
+57,Tyler Paitner,Dell,Computer,1V6TPN2,5000,202
+57,Tyler Paitner,Lenovo,Computer,PF0ZGZ9B,1000,203
+57,Tyler Paitner,Lenovo,Computer,PF0ZMW0J,1000,204
+57,Tyler Paitner,Lenovo,Computer,PF0ZGSYY,1000,205
+80,Jonathan Zhou,HP,Computer,CND6441TDY,488,206
+81,Jeannette Beronia,Macbook,Computer,C02TPC00G8WN,2300,207
+82,Kendra Gallup,Macbook,Computer,C02V1805G8WN,2300,208
+83,Cameron Gieda,Macbook,Computer,CO2SJ4MAG8WN,2300,209
+84,Richardo Iraheta,Lenovo,Computer,R90RG49G,1900,210
+0,Information Technology,---,---,---,0,211
+86,JL Mitra,Macbook,Computer,FVFWV05EJ9K9,2300,212
+87,Teng Hong Swee,Macbook,Computer,C02V33TLG8WN,2300,213
+88,Marco Reiling,Macbook,Computer,C02TMBG6G8WN,1900,214
+89,Matt Buedel ,Macbook,Computer,C02XT0ZBJG5M,2300,215
+3,Terry Lamprecht,Dell,Computer,3R9NRF2,1600,216
+7,Joshua Urlaub,ASUS,Monitor,JBLMTF052903,130,217
+40,Ben Jansky,ACER,Monitor,MMLVNAA00264401C122473,130,218
+40,Ben Jansky,ASUS,Monitor,J7LMTF067221,130,219
+50,Natalie Mehn,ShoreTel,Phone,105810FW173453D0E8,240,220
+52,Avery McDonald,ShoreTel,Phone,105809FW16274AA7E0,240,221
+52,Avery McDonald,Brother,Printer,V64988D8N805511,340,222
+22,Jessica Crofts,ShoreTel,Phone,C02V26WVG8WN,240,223
+10,Ashley Berquist,ShoreTel,Phone,105810fw1726528c15,240,224
+13,Lee Baldwin,ASUS,Monitor,HALMTF124335,130,225
+13,Lee Baldwin,ASUS,Monitor,HALMTF124361,130,226
+46,Sam Klein,ASUS,Monitor,J7LMTF107338,130,227
+46,Sam Klein,ASUS,Monitor,J7LMTF107342,130,228
+0,Information Technology,Samsung,Monitor,03YQ3NBJB11289J,280,229
+0,Information Technology,Synology,Server,13B0LSN004567,400,230
+0,Information Technology,NetGear,Switch,4JV1745L0148B,100,231
+0,Information Technology,ASUS,Monitor,G3LMTF120160,130,232
+0,Information Technology,tp-link,Switch,2179087002440,14,233
+0,Information Technology,NetGear,Switch,3MX76C5T0501C,14,234
+0,Information Technology,D-Link,Switch,H258135000032,30,235
+0,Information Technology,Monoprice,Switch,10744US3A200057,230,236
+90,Marketing,Canon,Printer,QTQ9116Z,200,237
+0,Information Technology,MonoPrice,Switch,,230,238
+0,Information Technology,UBiQuiti,Switch,,900,239
+12,Kate Baker,ShoreTel,Phone,105820FW18315AADF8,230,240
+91,Steven Han,Dell,Computer,h2pjnf2,2400,241
+91,Steven Han,Dell,Docking Station,,150,242
+93,Ian Colwell,Dell,Computer,155QNF2,2400,243
+93,Ian Colwell,Dell,Docking Station,,150,244
+91,Steven Han,ASIS,Monitor,,130,245
+91,Steven Han,ASUS,Monitor,,130,246
+93,Ian Colwell,ASUS,Monitor,,130,247
+93,Ian Colwell,ASUS,Monitor,,130,248
+10,Ashley Berquist,iPad,Tablet,GG7XX103JF8K,330,249
+10,Ashley Berquist,iPad,Tablet,GG7XX1NZJF8K,330,250
+81,Jeannette Beronia,iPad,Tablet,GG7XX1C9JF8K,330,251
+51,Cory Mason,Dell,Computer,,1899,252
+43,Riki Kettwich,Dell,Computer,,1899,253
+0,Information Technology,Samsung,Computer,HZ0N91JCC00709K,500,254
+0,Information Technology,NULL,Computer,TSBG07014919,3000,255
+27,Sneha Ganesh,System76,Computer,8102SC106516,1900,256
+0,Information Technology,ASUS,Computer,F8N0CJ00535232D,500,257
+0,Information Technology,HP,Printer,,500,258
+4,Sam Rustan,System76,Computer,185923-1,3000,259
+0,Information Technology,ASUS,Computer,N6N0GR00E445231,500,260
+0,Information Technology,XEROX,Printer,A2T37881,500,261
+0,Information Technology,Brother,Printer,U64203K7N571269,500,262
+73,Zach Taylor,Dell,Computer,CTQ0TT2,5000,263
+0,Information Technology,Canon,Printer,YDF15562,500,264
+54,Dan Mullins,HP,Computer,CND6196TL4,600,265
+102,Brad Miller,Surface,Computer,,500,266
+52,Avery McDonald,HP,Computer,CND6140RH1,600,267
+102,Brad Miller,Phoenix Contact,Printer,,0,268
+102,Brad Miller,ASUS,Computer,,0,269
+57,Tyler Paitner,ASUS,Computer,,0,270
+39,Kim Jacob,Macbook,Computer,C02XJ89QJG5H,2000,271
+0,Information Technology,Dell,Printer,CN-060GDP-72211-75A-0045,400,272
+0,Information Technology,HP,Printer,CNDKL6H2WH,300,273
+0,Information Technology,Canon,Printer,YDF15562,300,274
